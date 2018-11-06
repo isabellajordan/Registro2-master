@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "647315311827",
+    "firebase_url": "https://ecosistemas-a57a8.firebaseio.com",
+    "project_id": "ecosistemas-a57a8",
+    "storage_bucket": "ecosistemas-a57a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647315311827:android:f8d573da07c65d64",
+        "android_client_info": {
+          "package_name": "dmi.com.registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647315311827-68n8l1j62iho9r2akmf4ck7cip477o9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dmi.com.registro",
+            "certificate_hash": "d784ab6c47b0e6f24c169f69e4a49a19d9390f43"
+          }
+        },
+        {
+          "client_id": "647315311827-q471fg04tvdm9dl5vdjeechu482ot4ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaG_NcZ0210tV5KUp62H8hQwtVXKBhD4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647315311827-q471fg04tvdm9dl5vdjeechu482ot4ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
